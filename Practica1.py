@@ -29,7 +29,7 @@ print(type(x))
 #None
 x=None
 print(type(x))
-
+#Prueba de git ”
 #Mostrar por pantalla un cartel que diga “Hola Mundo”
 x="Hola"
 y="Mundo"
